@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">InstagramViewer</string>
+
+    <string name="click_email">Email</string>
+    <string name="click_password">Password</string>
+    <string name="click_name">Username</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered? Login in now.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Username</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Activity</string>
+    <string name="title_camera">Take Photo</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_discovery">Discovery</string>
+    <string name="title_activity_profile_home">ProfileHomeActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search_hint">Search by username</string>
+
+    <string name="text_filter_normal">original</string>
+    <string name="text_filter_meifu">nature</string>
+    <string name="text_filter_meishi">food</string>
+    <string name="text_filter_amaro">liunian</string>
+    <string name="text_filter_rise">forest</string>
+    <string name="text_filter_hudson">feilin</string>
+    <string name="text_filter_xproii">fashion</string>
+    <string name="text_filter_sierra">fresh</string>
+    <string name="text_filter_lomofi">unique</string>
+    <string name="text_filter_early_bird">soft</string>
+    <string name="text_filter_sutro">modern</string>
+    <string name="text_filter_toaster">gorgeous</string>
+    <string name="text_filter_brannan">elegant</string>
+    <string name="text_filter_inkwell">BW</string>
+    <string name="text_filter_walden">Japan</string>
+    <string name="text_filter_hefe">youge</string>
+    <string name="text_filter_valencia">grace</string>
+    <string name="text_filter_nashville">history</string>
+    <string name="text_filter_in1977">new</string>
+    <string name="text_filter_lord_kelvin">memory</string>
+
+
+</resources>
